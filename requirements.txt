@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+python-docx
+python-dotenv
+groq
+langchain-text-splitters
+langchain-community
+sentence-transformers
+faiss-cpu
+pytesseract
+Pillow
